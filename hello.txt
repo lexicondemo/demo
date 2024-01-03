@@ -1,9 +1,6 @@
 Helsingborg
 
 Hello Wold!
-
-	Jonas
-
 Hello again!
 
-
+Det är kallt ute idag!
