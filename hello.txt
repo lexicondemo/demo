@@ -3,4 +3,5 @@ Helsingborg
 Hello Wold!
 Hello again!
 
-Det är kallt ute idag!
+macOS är ett UNIX-operativ.
+
